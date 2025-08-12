@@ -1,5 +1,5 @@
 ![Screenshot Tampilan Game](images/screenshot.png)
-# Kota Pangan Mandiri – Prototype
+# Simulasi Game Kota Pangan Mandiri dengan Konsep Grid
 # Project ini berbasis (Vite + React + Tailwind)
 # Kalau command npm tidak bisa, install pakai: winget install OpenJS.NodeJS.LTS
 
