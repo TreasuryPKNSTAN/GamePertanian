@@ -1,4 +1,4 @@
-![Screenshot Tampilan Game](images/Screenshot 2025-08-12 202515.png)
+![Screenshot Tampilan Game](images/screenhot.png)
 # Kota Pangan Mandiri – Prototype (Vite + React + Tailwind)
 
 ## Jalankan lokal
