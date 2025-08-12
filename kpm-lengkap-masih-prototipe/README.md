@@ -1,4 +1,4 @@
-![Screenshot Tampilan Game](kpm-lengkap-masih-prototipe/images/screenhot.jpg)
+![Screenshot Tampilan Game](kpm-lengkap-masih-prototipe/images/screenshot.jpg)
 # Kota Pangan Mandiri – Prototype (Vite + React + Tailwind)
 
 ## Jalankan lokal
