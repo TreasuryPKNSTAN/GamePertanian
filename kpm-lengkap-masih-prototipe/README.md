@@ -1,5 +1,7 @@
 ![Screenshot Tampilan Game](images/screenshot.jpg)
-# Kota Pangan Mandiri – Prototype (Vite + React + Tailwind)
+# Kota Pangan Mandiri – Prototype
+# Project ini berbasis (Vite + React + Tailwind)
+# Kalau command npm tidak bisa, install pakai: winget install OpenJS.NodeJS.LTS
 
 ## Jalankan lokal
 ```bash
