@@ -1,6 +1,5 @@
+![Screenshot Tampilan Game](images/Screenshot 2025-08-12 202515.png)
 # Kota Pangan Mandiri – Prototype (Vite + React + Tailwind)
-
-Versi lengkap berisi **index.html**, **src/main.jsx**, **src/App.jsx** (game), siap jalan.
 
 ## Jalankan lokal
 ```bash
